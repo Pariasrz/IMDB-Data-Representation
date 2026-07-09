@@ -4,10 +4,10 @@ An interactive exploratory data analysis dashboard for the Kaggle IMDb Top 1000 
 
 ## Live dashboard
 
-After enabling GitHub Pages, the dashboard will be available at:
+The dashboard is available at:
 
 ```text
-https://YOUR-USERNAME.github.io/imdb-top1000-dashboard/
+https://pariasrz.github.io/imdb-top1000-dashboard/
 ```
 
 ## What this dashboard explores
@@ -38,25 +38,19 @@ https://YOUR-USERNAME.github.io/imdb-top1000-dashboard/
 
 ## Dataset
 
-Dataset source: Kaggle IMDb Dataset of Top 1000 Movies and TV Shows by Harshit Shankhdhar.
+Dataset source: Kaggle IMDb Dataset of Top 1000 Movies and TV Shows by Harshit Shankhdhar at the following linK 
 
-Because the dataset belongs to its Kaggle source, this repository does **not** need to include the raw CSV file. The dashboard is generated from the dataset for educational exploratory analysis.
+```text
+[https://pariasrz.github.io/imdb-top1000-dashboard/](https://www.kaggle.com/datasets/babaakki/imdb1000)
+```
+
+
+The dashboard is generated from the dataset for educational exploratory analysis.
 
 ## How to use locally
 
 Open `index.html` in any modern web browser.
 
-## How to publish with GitHub Pages
-
-1. Create a new GitHub repository, for example: `imdb-top1000-dashboard`.
-2. Upload the files in this folder.
-3. Go to **Settings → Pages**.
-4. Under **Build and deployment**, choose:
-   - Source: `Deploy from a branch`
-   - Branch: `main`
-   - Folder: `/root`
-5. Save.
-6. Wait a minute or two, then open the GitHub Pages URL.
 
 ## Notes and limitations
 
