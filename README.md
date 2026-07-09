@@ -7,7 +7,7 @@ An interactive exploratory data analysis dashboard for the Kaggle IMDb Top 1000 
 The dashboard is available at:
 
 ```text
-https://pariasrz.github.io/imdb-top1000-dashboard/
+[https://pariasrz.github.io/imdb-top1000-dashboard/](https://pariasrz.github.io/IMDB-Data-Representation/)
 ```
 
 ## What this dashboard explores
