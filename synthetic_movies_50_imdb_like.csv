@@ -1,0 +1,51 @@
+movie_id,title,release_year,genre,runtime_minutes,country,average_rating,num_votes,budget_million,revenue_million,content_rating
+1,A Thousand Quiet Things,2017,Drama,128,France,7.8,54213,8.4,31.7,PG
+2,Black Signal,2020,Thriller,112,South Korea,8.1,186552,21.3,118.6,R
+3,The Europa Protocol,2022,Sci-Fi,146,USA,8.4,742661,168.0,962.4,PG-13
+4,Winter in Marseille,2016,Romance,109,France,7.2,29844,6.7,22.5,PG
+5,The King's Messenger,2019,History,154,UK,8.0,121337,47.8,184.2,PG-13
+6,Paper Lantern Summer,2021,Animation,97,Japan,8.5,301115,38.0,341.8,PG
+7,Silent Extraction,2018,Action,131,USA,7.6,411988,93.5,527.6,PG-13
+8,The Last Monsoon,2015,Drama,143,India,8.3,98432,11.2,64.8,PG
+9,Dead Frequency,2023,Crime,118,UK,7.9,163511,24.5,97.1,R
+10,Beneath a Silver Sky,2014,Biography,136,Germany,7.7,41995,13.8,45.3,PG-13
+11,The House on Willow Street,2013,Mystery,104,UK,7.1,35872,5.9,18.6,PG-13
+12,Three Nights in Busan,2021,Crime,121,South Korea,8.0,248119,18.6,136.9,R
+13,The Garden of Small Goodbyes,2018,Drama,116,Japan,7.9,62781,7.4,39.2,PG
+14,Red Horizon,2019,Action,126,USA,7.4,356440,86.0,421.5,PG-13
+15,Songs for an Empty Station,2016,Romance,107,Italy,7.3,31408,6.1,24.9,PG
+16,The Fifth Regiment,2012,War,161,Germany,8.1,88972,32.4,91.7,R
+17,The Glass Peacock,2020,Mystery,119,India,7.6,76304,9.8,58.3,PG-13
+18,Eleanor Finch,2015,Biography,132,UK,7.8,57911,14.6,52.1,PG-13
+19,Titan Station,2024,Sci-Fi,151,USA,8.2,531604,142.0,714.8,PG-13
+20,The Boy Who Followed Fireflies,2021,Animation,95,Japan,8.7,604318,47.0,426.0,PG
+21,Before the River Turns,2017,Family,102,India,7.4,44219,8.2,37.6,PG
+22,The Lavender Thief,2018,Comedy,98,France,6.9,48205,10.5,61.4,PG-13
+23,Nightingale Court,2022,Drama,124,UK,7.5,68112,12.7,44.0,PG-13
+24,The Andromeda Shore,2023,Sci-Fi,139,Canada,7.9,214660,74.5,312.8,PG-13
+25,No Rain in Palermo,2014,Crime,113,Italy,7.2,39471,9.3,34.6,R
+26,The Night Clerk of Seoul,2019,Thriller,116,South Korea,8.2,317884,17.9,158.2,R
+27,Moon Over Chandni Chowk,2016,Romance,129,India,7.1,93677,12.4,82.5,PG
+28,The Lighthouse at Skagen,2018,Drama,122,Denmark,7.6,28544,7.8,19.3,PG-13
+29,Ashfall County,2020,Thriller,110,USA,6.8,145330,32.0,88.7,R
+30,The Emperor's Violin,2015,History,137,Germany,7.9,143266,38.0,126.0,PG-13
+31,Southbound to Savannah,2019,Comedy,103,USA,7.0,114207,22.0,148.9,PG-13
+32,The Paper Moon Bakery,2022,Family,94,Japan,7.3,51644,12.1,73.5,G
+33,The Trial of Arthur Vale,2021,Biography,141,UK,8.0,119336,27.5,102.4,PG-13
+34,"Blue Door, Red Door",2017,Mystery,106,France,7.4,46209,6.8,25.1,PG-13
+35,Vultures Above Mumbai,2020,Crime,134,India,7.8,156882,18.2,104.7,R
+36,Echoes of Andromeda,2025,Sci-Fi,148,USA,8.5,884216,210.0,1198.3,PG-13
+37,The Quiet War,2016,War,149,UK,7.7,74991,34.2,83.6,R
+38,A Room Above the Canal,2013,Romance,111,Italy,7.0,22784,5.3,16.8,PG
+39,Dragonfly Days,2021,Animation,99,Japan,8.1,195306,29.0,233.4,PG
+40,Midnight Evidence,2018,Crime,117,USA,7.5,204553,28.0,126.8,R
+41,The Orchard at Saint-Cloud,2015,Drama,120,France,7.6,33721,7.1,23.4,PG
+42,The Vanishing of Han River,2022,Mystery,123,South Korea,8.3,271904,20.4,146.2,R
+43,The Mountain That Remembered,2020,Adventure,144,New Zealand,7.8,187442,54.0,249.7,PG-13
+44,A Crown for Vienna,2014,History,152,Austria,7.5,38418,18.5,44.9,PG-13
+45,Neon Tigers,2023,Action,124,USA,6.9,286771,78.0,309.5,PG-13
+46,The Professor's Last Letter,2016,Drama,118,Canada,7.7,49266,9.4,36.2,PG-13
+47,Crows Over Kreuzberg,2019,Thriller,115,Germany,7.3,61105,12.9,47.8,R
+48,The Jasmine Ledger,2021,Biography,130,India,8.1,132588,15.7,89.1,PG
+49,The Clockwork Kingdom,2024,Fantasy,142,UK,7.9,365904,96.0,516.6,PG-13
+50,A Sunday in Kyoto,2017,Family,96,Japan,7.2,38114,7.9,28.5,G
