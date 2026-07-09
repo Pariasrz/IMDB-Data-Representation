@@ -41,7 +41,7 @@ ttps://pariasrz.github.io/IMDB-Data-Representation/
 Dataset source: Kaggle IMDb Dataset of Top 1000 Movies and TV Shows by Harshit Shankhdhar at the following linK 
 
 ```text
-[https://pariasrz.github.io/imdb-top1000-dashboard/](https://www.kaggle.com/datasets/babaakki/imdb1000)
+https://www.kaggle.com/datasets/babaakki/imdb1000
 ```
 
 
